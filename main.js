@@ -47,13 +47,19 @@ console.assert(longestString(strings) === 'collection', {"message": "longestStri
 var numbers = [1,12,4,18,9,7,11,3,101,5,6];
 
 
+  }
 // 3.
 // Write a function `smallestNumber()` that accepts an array
 // and returns the smallest number in the array.
 // A:
-function smallestNumber() {
 
-}
+for (var i = 0; i < numbers.length; i++){
+  var smallestNumber = arryOfStri[i];
+  console.log(smallestNumber.length, );
+  if(numbers.length > numbers.length){
+    smallest = Number;
+
+
 
 console.assert(smallestNumber(numbers) === 1, {"message": "smallestNumber should return 1"});
 
@@ -130,13 +136,13 @@ var instructors = [
 ];
 
 var instructorNameDiscipline = instructors[5];
-// greenvIlleInstructor = <your answer>
+// greenvIlleInstructor = Will
 
 var instructorOne = instructors[4][0];
-// instructorOne = <your answer>
+// instructorOne = Dan
 
 var instructorTwo = instructors[0][1];
-// instructorTwo = <your answer>
+// instructorTwo = JD Will
 
 var instructorThree = instructors[2][0];
-// instructorThree = <your answer>
+// instructorThree = Brit, Ruby
